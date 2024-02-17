@@ -4,6 +4,10 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moondusk1996&hide_progress=true&theme=gotham&locale=pt-br&border_radius=3" />
 </picture>
 <picture>
+   <source
+    srcset="[https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api?username=moondusk1996&show_icons=true&theme=gotham&locale=pt-br&border_radius=3&hide_rank=true)"
+    media="(prefers-color-scheme: dark)"
+  />
   <img src="https://github-readme-stats.vercel.app/api?username=moondusk1996&show_icons=true&theme=gotham&locale=pt-br&border_radius=3&hide_rank=true" />
 </picture>
 </div>
