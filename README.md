@@ -16,3 +16,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=moondusk1996&show_icons=true&theme=gotham&locale=pt-br&border_radius=3&hide_rank=true" />
 </picture>
 </div>
+
+## 
+ - Aprenda Bitcoin
+ - Use NOSTR
+ - Não use drogas
+ - Não use sistemas de codigo fechado.
