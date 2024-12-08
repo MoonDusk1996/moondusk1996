@@ -17,8 +17,3 @@
 </picture>
 </div>
 
-## 
- - Aprenda Bitcoin
- - Use NOSTR
- - Não use drogas
- - Não use sistemas de codigo fechado.
